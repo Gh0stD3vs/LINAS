@@ -15,7 +15,7 @@ LINAS (Live Incident Notification Alerting Systems) is a powerful program design
 1. Download the included zip file.
 2. Extract the content from the zip file.
 3. Run the LINAS program by double-clicking the `main.exe` file.
-4. Authorize the included Message Reader (See [Telethon Linking](https://docs.telethon.dev/en/stable/index.html)) **Do NOT use a bot token!!!** 
+4. Authorize the included Message Reader (See [Telethon](https://docs.telethon.dev/en/stable/index.html)) **Do NOT use a bot token!!!** 
 5. Restart the program after linking your Telegram
 
 ## Usage
